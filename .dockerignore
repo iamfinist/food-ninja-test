@@ -1,0 +1,15 @@
+.git
+.github
+vendor
+node_modules
+storage/*.key
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
+public/build
+public/css/filament/
+public/js/filament/
+.idea
+.vscode
+*.sqlite
